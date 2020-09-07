@@ -13,24 +13,18 @@
   27%  { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
   100% { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
 }
-
-
-
-body { 
-  text-align: center;
-  font: 100 16px/1.5 Helvetica ,Arial ,sans-serif;
-  color: rgb(52, 73, 94);
-}
 h1 {
   width: 500px;
   line-height: 10px;
   padding-top: 70px;
- 
+  text-align: center;
+  font: 100 16px/1.5 Helvetica ,Arial ,sans-serif;
+  color: rgb(52, 73, 94);
   transform-origin: bottom;
-    animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
+  animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
 }
       </style>
-<div style="z-index:100; position: fixed;">Hellof</div>
+<div style="z-index:100; position: fixed;">Hello</div>
 <div style="z-index: -1;"><h1>hello</h1></div>
     </div>
   </foreignObject>
