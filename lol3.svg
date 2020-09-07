@@ -3,34 +3,34 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
 /* Copy this @keyframes block to your CSS*/
-@keyframes yourAnimation {
-    0.0%{
-        transform: scale(1) translate(-100px, 0) skew(0deg);
-    }
-    39.9%{
-        transform: scale(1) translate(100px, 0) skew(-5deg);
-    }
-    45.3%{
-        transform: scale(1) translate(100px, -6px) skew(0deg);
-    }
-    5.1%{
-        transform: scale(1) translate(-100px, 0) skew(-12deg);
-    }
-    50.3%{
-        transform: scale(1) translate(100px, 0px) skew(0deg);
-    }
-    55.3%{
-        transform: scale(1) translate(100px, -10px) skew(0deg);
-    }
-    60.3%{
-        transform: scale(1) translate(100px, 0px) skew(5deg);
-    }
-    95.1%{
-        transform: scale(1) translate(-100px, 0) skew(12deg);
-    }
-    99.6%{
-        transform: scale(1) translate(-100px, 0) skew(0deg);
-    }
+@keyframes bounce {
+   0.0%{
+        transform: scale(1) translate(-100px, 0) skew(0deg);
+    }
+    39.9%{
+        transform: scale(1) translate(100px, 0) skew(-5deg);
+    }
+    45.3%{
+        transform: scale(1) translate(100px, -6px) skew(0deg);
+    }
+    5.1%{
+        transform: scale(1) translate(-100px, 0) skew(-12deg);
+    }
+    50.3%{
+        transform: scale(1) translate(100px, 0px) skew(0deg);
+    }
+    55.3%{
+        transform: scale(1) translate(100px, -10px) skew(0deg);
+    }
+    60.3%{
+        transform: scale(1) translate(100px, 0px) skew(5deg);
+    }
+    95.1%{
+        transform: scale(1) translate(-100px, 0) skew(12deg);
+    }
+    99.6%{
+        transform: scale(1) translate(-100px, 0) skew(0deg);
+    }
 }
 
 
@@ -46,7 +46,7 @@ h1 {
   padding-top: 70px;
  
   transform-origin: bottom;
-    animation: yourAnimation 5s ease 0s infinite normal forwards;
+    animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
 }
       </style>
 <div style="z-index:100; position: fixed;">Hellof</div>
