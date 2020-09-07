@@ -29,7 +29,7 @@ h1 {
   white-space: pre-wrap;
 }
       </style>
-      <h1><div class="multiline">
+      <div class="multiline">
       ██████  ██▓     ▒█████  ▓█████ ██▒   █▓
     ▒██    ▒ ▓██▒    ▒██▒  ██▒▓█   ▀▓██░   █▒
     ░ ▓██▄   ▒██░    ▒██░  ██▒▒███   ▓██  █▒░
@@ -40,7 +40,7 @@ h1 {
     ░  ░  ░    ░ ░   ░ ░ ░ ▒     ░       ░░  
           ░      ░  ░    ░ ░     ░  ░     ░  
                                          ░ 
-        </div></h1>
+        </div>
     </div>
   </foreignObject>
 </svg>
