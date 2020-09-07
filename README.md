@@ -1,5 +1,5 @@
 # can-i-haz-interactive-readme
 
 
-![](./lol.svg)
+![](./lol2.svg)
 
