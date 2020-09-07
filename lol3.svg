@@ -22,9 +22,11 @@ h1 {
   color: rgb(52, 73, 94);
   transform-origin: bottom;
   animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
+  white-space: pre-wrap;
+
 }
       </style>
-      <h1><p>
+      <h1>
       ██████  ██▓     ▒█████  ▓█████ ██▒   █▓
     ▒██    ▒ ▓██▒    ▒██▒  ██▒▓█   ▀▓██░   █▒
     ░ ▓██▄   ▒██░    ▒██░  ██▒▒███   ▓██  █▒░
@@ -35,7 +37,7 @@ h1 {
     ░  ░  ░    ░ ░   ░ ░ ░ ▒     ░       ░░  
           ░      ░  ░    ░ ░     ░  ░     ░  
                                          ░ 
-        </p></h1>
+        </h1>
     </div>
   </foreignObject>
 </svg>
