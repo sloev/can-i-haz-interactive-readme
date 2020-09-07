@@ -34,8 +34,8 @@ body {
         z-index: -1;
 }
       </style>
-<div class="front">Hello</div>
-<div class="back">hello</div>
+<div class="front">Hello i am        i like clocks</div>
+<div class="back">            sloev </div>
     </div>
   </foreignObject>
 </svg>
