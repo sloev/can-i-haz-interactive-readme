@@ -30,7 +30,9 @@ body {
   transform-origin: bottom;
   animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
 }
-        .back {  padding-top: 70px;
+        .back { 
+          white-space: pre-wrap;
+padding-top: 70px;
 
         z-index: -1;
 }
