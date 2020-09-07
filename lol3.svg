@@ -23,7 +23,8 @@ body {
   color: rgb(52, 73, 94);
         }
 front {
-        z-index:100; position: fixed;
+        z-index:100; 
+      
   transform-origin: bottom;
   animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
 }
@@ -32,7 +33,7 @@ front {
 }
       </style>
 <div class="front">Hello</div>
-<div class="back"><h1>hello</h1></div>
+<div class="back">hello</div>
     </div>
   </foreignObject>
 </svg>
