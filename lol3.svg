@@ -22,13 +22,17 @@ body {
   font: 100 16px/1.5 Helvetica ,Arial ,sans-serif;
   color: rgb(52, 73, 94);
         }
-h1 {
+front {
+        z-index:100; position: fixed;
   transform-origin: bottom;
   animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
 }
+        back {
+        z-index: -1;
+}
       </style>
-<div style="z-index:100; position: fixed;">Hello</div>
-<div style="z-index: -1;"><h1>hello</h1></div>
+<div class="front">Hello</div>
+<div class="back"><h1>hello</h1></div>
     </div>
   </foreignObject>
 </svg>
