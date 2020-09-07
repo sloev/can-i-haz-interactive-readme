@@ -22,22 +22,10 @@ h1 {
   color: rgb(52, 73, 94);
   transform-origin: bottom;
   animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
-  white-space: pre-wrap;
-
 }
       </style>
-<h1>
-     ██████  ██▓     ▒█████  ▓█████ ██▒   █▓
-    ▒██    ▒ ▓██▒    ▒██▒  ██▒▓█   ▀▓██░   █▒
-    ░ ▓██▄   ▒██░    ▒██░  ██▒▒███   ▓██  █▒░
-      ▒   ██▒▒██░    ▒██   ██░▒▓█  ▄  ▒██ █░░
-    ▒██████▒▒░██████▒░ ████▓▒░░▒████▒  ▒▀█░  
-    ▒ ▒▓▒ ▒ ░░ ▒░▓  ░░ ▒░▒░▒░ ░░ ▒░ ░  ░ ▐░  
-    ░ ░▒  ░ ░░ ░ ▒  ░  ░ ▒ ▒░  ░ ░  ░  ░ ░░  
-    ░  ░  ░    ░ ░   ░ ░ ░ ▒     ░       ░░  
-          ░      ░  ░    ░ ░     ░  ░     ░  
-                                         ░ 
-        </h1>
+<div style="z-index:100; position: fixed;">Hello</div>
+<div style="z-index: -1;"><h1>hello</h1></div>
     </div>
   </foreignObject>
 </svg>
