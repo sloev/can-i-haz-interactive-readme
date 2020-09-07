@@ -15,7 +15,7 @@
 }
 h1 {
   width: 400px;
-  line-height: 20px;
+  line-height: 10px;
   padding-top: 70px;
   text-align: center;
   font: 100 16px/1.5 Helvetica ,Arial ,sans-serif;
@@ -24,9 +24,6 @@ h1 {
   animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
   white-space: pre-wrap;
 
-}
-        .multiline {
-  white-space: pre-wrap;
 }
       </style>
 <h1>
