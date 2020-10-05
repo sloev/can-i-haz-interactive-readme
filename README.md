@@ -11,3 +11,5 @@ https://htmlpreview.github.io/?https://github.com/sloev/can-i-haz-interactive-re
 <a href="https://google.com/b" target="mineisbetter">b</a>
 
 <img src="https://count.underjord.io/"/>
+
+![count](https://count.underjord.io/)
