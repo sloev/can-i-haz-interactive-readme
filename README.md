@@ -12,4 +12,4 @@ https://htmlpreview.github.io/?https://github.com/sloev/can-i-haz-interactive-re
 
 <img src="https://count.underjord.io/"/>
 
-![count](https://count.underjord.io/)
+![count](https://chat.buro.earth/ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnZjbWxuYVc0aU9tNTFiR3g5LjB3Z0dqNnhrZVM3Z09uSlhPQWhMZkhmTnlnbFJCd1Jqd1lVcGxvUGRXcFU=/image.mjpg)
